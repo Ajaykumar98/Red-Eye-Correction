@@ -1,3 +1,3 @@
 # Red-Eye-Correction
 
-A red eye correction tool.Give red eye images as input and it will give the corrected image as the output
+A red eye image is corrected and the natural color of the eyes is retained in the output.
